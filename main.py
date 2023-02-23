@@ -10,5 +10,3 @@ message = client.messages.create(
     body="Hello from Python!")
 
 print(message.sid)
-
-test
